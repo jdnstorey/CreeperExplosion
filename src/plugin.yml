@@ -1,0 +1,4 @@
+name: CreeperExplosion
+main: me.polo.creeperexplosion.Main
+version: 1
+api-version: 1.17

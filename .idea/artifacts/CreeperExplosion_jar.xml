@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreeperExplosion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreeperExplosion_jar</output-path>
+    <root id="archive" name="CreeperExplosion.jar">
+      <element id="module-output" name="CreeperExplosion" />
+    </root>
+  </artifact>
+</component>
